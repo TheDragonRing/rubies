@@ -1,4 +1,4 @@
-# HideCoords
+# Rubies
 
 Rubies is a resource pack that replaces diamonds with rubies. Completely. Everything from diamond tools to diamond horse armour to diamond ore has been replaced with its ruby counterpart.
 
