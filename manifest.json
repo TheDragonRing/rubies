@@ -4,14 +4,14 @@
     "name": "Rubies",
     "description": "Diamonds are replaced with red rubies! (by TheDragonRing)",
     "uuid": "d040bd95-f9c6-4811-952f-4e2bdaee9fd2",
-    "version": [1, 0, 0]
+    "version": [0, 1, 0]
   },
   "modules": [
     {
       "description": "Diamonds are replaced with red rubies! (by TheDragonRing) ",
       "type": "resources",
       "uuid": "d9b8207a-6942-48bd-a8ae-55c9c76a87e1",
-      "version": [1, 0, 0]
+      "version": [0, 1, 0]
     }
   ]
 }
